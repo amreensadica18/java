@@ -1,0 +1,10 @@
+class student1{
+int id;
+string name;
+
+public static void main(string args[]){
+student1 s1=new student1();
+system.out.println(s1.id);
+system.out.println(s1.name);
+}
+}
